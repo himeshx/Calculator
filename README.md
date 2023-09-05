@@ -19,6 +19,8 @@ This GitHub project showcases an interactive web calculator designed and impleme
 Hello! 👋
 My name is <a href="https://github.com/himeshx">```Himesh Mohapatra```</a> and this GitHub project showcases an interactive web calculator </br>
 I have also provided the code for my project. 
+This GitHub project showcases an interactive web calculator designed and implemented using HTML, CSS, and JavaScript. The calculator provides a user-friendly interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes features like a clear button to reset the input. 
+
 - My GitHub profile: <a href="https://github.com/himeshx">```Github!```</a>
 - My Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin!```</a>
 ----
