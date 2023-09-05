@@ -31,6 +31,15 @@ I have also provided the code for my project.
 - JavaScript 
 - HTML 
 - CSS
+  
+----
+<h2 align="left">
+  <b>
+    ©️ Copyright Disclaimer
+  </b>
+</h2>
+
+- Under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, teaching, education, scholarship and research. Fair use is a use permitted by the copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.   
 ----
 <div align="center">
     <img src="Cal-c.png"/>
