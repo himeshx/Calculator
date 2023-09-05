@@ -23,6 +23,6 @@ I have provided the code for my project.
 - My Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin!```</a>
 
 <div align="center">
-    <img src=""/>
+    <img src="Cal-c.png"/>
 </div>
 
