@@ -18,7 +18,7 @@ This GitHub project showcases an interactive web calculator designed and impleme
 
 Hello! 👋
 My name is <a href="https://github.com/himeshx">```Himesh Mohapatra```</a> and this GitHub project showcases an interactive web calculator </br>
-I have provided the code for my project. 
+I have also provided the code for my project. 
 - My GitHub profile: <a href="https://github.com/himeshx">```Github!```</a>
 - My Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin!```</a>
 ----
