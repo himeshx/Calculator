@@ -22,6 +22,16 @@ I have also provided the code for my project.
 - My GitHub profile: <a href="https://github.com/himeshx">```Github!```</a>
 - My Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin!```</a>
 ----
+<h2 align="left">
+    <b>
+            🏹</a> Tech Stack (Frontend+Backend)
+    </b>
+</h2>
+
+- JavaScript 
+- HTML 
+- CSS
+----
 <div align="center">
     <img src="Cal-c.png"/>
 </div>
